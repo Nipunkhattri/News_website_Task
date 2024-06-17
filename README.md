@@ -13,7 +13,7 @@
 
 ### Instruction to Set up code(Easily)
 
-1 Run cmd (git clone [https://github.com/Nipunkhattri/Next_JS](https://github.com/Nipunkhattri/News_website_Task))</br>
+1 Run cmd (git clone https://github.com/Nipunkhattri/News_website_Task)</br>
 2 Oen folder</br>
 3 Run cmd (cd frontend)
 <ul>
