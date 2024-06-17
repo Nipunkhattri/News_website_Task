@@ -1,4 +1,4 @@
-# NextJS 
+# News website React JS
 
 ## Features
 
