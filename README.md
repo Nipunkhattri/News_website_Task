@@ -13,12 +13,10 @@
 
 ### Instruction to Set up code(Easily)
 
-1 Run cmd (git clone https://github.com/Nipunkhattri/Next_JS)</br>
+1 Run cmd (git clone [https://github.com/Nipunkhattri/Next_JS](https://github.com/Nipunkhattri/News_website_Task))</br>
 2 Oen folder</br>
 3 Run cmd (cd frontend)
 <ul>
 <li>Run cmd (npm install)</li>
-<li>Run cmd (npm run dev )</li>
+<li>Run cmd (npm start )</li>
 </ul>
-4 Go to http://localhost:3000/product/ProductList
-
